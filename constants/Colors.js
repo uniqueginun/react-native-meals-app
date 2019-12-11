@@ -3,5 +3,6 @@ export default Color = {
   secondary: "#c2c2d6",
   success: "#00e600",
   info: "#00a3cc",
-  danger: "#ff1a66"
+  danger: "#ff1a66",
+  mainYello: "#ffff4d"
 };
